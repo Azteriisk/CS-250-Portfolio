@@ -1,1 +1,1 @@
-# cs250-portfolio
+Alec Brandt: CS 250 Project Portfolio
