@@ -1,3 +1,9 @@
+> **Course**: CS 250: Software Development Lifecycle  
+> **Description**: Software Development Lifecycle & Agile Methodologies Portfolio  
+> **Part of**: [CS SWE Degree Path](https://github.com/Azteriisk/CS-SWE-Degree-Path)
+
+---
+
 # CS Portfolio Submission – Sprint Review and Retrospective
 
 ## Reflection Questions
